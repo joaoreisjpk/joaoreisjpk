@@ -17,7 +17,7 @@
   <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="Styled-Components" height="45" width="45" src="https://styled-components.com/logo.png">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
+  <img align="center" alt="github" height="35" width="35" src="https://raw.githubusercontent.com/duribeiro/duribeiro/main/assets/GitHub.png">
 </div><br>
     
 <div align="center">
