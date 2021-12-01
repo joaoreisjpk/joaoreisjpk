@@ -19,7 +19,6 @@
 </div><br>
     
 <div align="center">
-  <a href="https://www.facebook.com/joaoreisjpk" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaoreisjpk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://stackoverflow.com/users/17556800/jo%c3%a3o-pedro-reis-de-mello" target="_blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" target="_blank"></a>
   <a href="mailto:joaoreisjpk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
