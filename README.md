@@ -1,6 +1,6 @@
 <div align="center">
-  <h2>Olá! Meu nome é  <a href="https://www.linkedin.com/in/joaoreisjpk/"><i>João Pedro Reis</i></a></h2>
-  <p>Sou estudante de desenvolvimento Web na Trybe, e atualmente tenho aprofundado meus conhecimentos na plataforma RocketSeat, com os cursos do Ignite</p>
+  <h1>Olá! Meu nome é  <a href="https://www.linkedin.com/in/joaoreisjpk/"><i>João Pedro Reis</i></a>!</h1>
+  <p>Sou estudante de desenvolvimento Web na Trybe, e atualmente tenho aprofundado meus conhecimentos na plataforma RocketSeat, com os cursos do Ignite voltados ao Front-End</p>
   <a href="https://github.com/joaoreisjpk">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaoreisjpk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoreisjpk&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -21,11 +21,10 @@
 </div><br>
     
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/edu.duduribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://www.facebook.com/pr.eduardoribeiro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
-  <a href="https://www.linkedin.com/in/edududuribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:eduardo.duduribeiro1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- <a href="https://www.facebook.com/joaoreisjpk" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
+  <a href="https://www.linkedin.com/in/joaoreisjpk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://stackoverflow.com/users/17556800/jo%c3%a3o-pedro-reis-de-mello" target="_blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" target="_blank"></a>
+  <a href="mailto:joaoreisjpk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
   ##
