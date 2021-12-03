@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Olá! Meu nome é  <a href="https://www.linkedin.com/in/joaoreisjpk/"><i>João Pedro Reis</i></a>!</h1>
   <p>Sou estudante de desenvolvimento Web na Trybe, e atualmente tenho aprofundado meus conhecimentos na plataforma RocketSeat, principalmente com os cursos do Ignite voltados ao Front-End</p>
-  <h2>Meu <a href="https://joaoreisjpk-portifolio.vercel.app/"><i>Portifólio</i></a>!</h2>
+  <h2>Meu <a href="https://joaoreisjpk-portfolio.vercel.app/"><i>Portfólio</i></a>!</h2>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaoreisjpk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoreisjpk&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
